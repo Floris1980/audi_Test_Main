@@ -1,5 +1,6 @@
-#include iostream
+#include <iostream>
 
-int main()
-{
+int main() {
+std::cout << "Hello, GitHub CI!" std...enl;
+return 0;
 }
