@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-std::cout << "Hello, GitHub CI!" std...enl;
-return 0;
+    std::cout << "Hello, GitHub CI!" << std::endl;
+    return 0;
 }
